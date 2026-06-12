@@ -2,8 +2,6 @@
 
 **AI-Powered Writing Assistant for WhatsApp Web**
 
-🏆 *InterIIT Bootcamp · 3rd Place*
-
 ---
 
 | **Manifest V3** | **Gemini 2.5 Flash** | **AES-GCM Encrypted** | **WhatsApp Web** |
@@ -13,7 +11,6 @@
 
 Chat Catalyst is a Chrome extension that brings real-time, context-aware AI writing assistance directly into WhatsApp Web. Powered by Google's Gemini 2.5 Flash model, it analyzes your ongoing conversation and helps you write better messages — faster.
 
-Built for the InterIIT Bootcamp hackathon, the extension secured 3rd place among all competing teams. It is designed to feel completely native to WhatsApp, injecting seamlessly into the UI without disrupting the user's experience.
 
 ## Features
 
@@ -184,6 +181,5 @@ chat-catalyst/
 
 ---
 
-**Chat Catalyst · InterIIT Bootcamp · 3rd Place 🏆**
 
 Built using Google Gemini 2.5 Flash & Chrome Extensions Manifest V3
